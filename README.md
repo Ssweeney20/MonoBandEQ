@@ -28,8 +28,6 @@ CMake: Version 3.15 or higher.
 Git: For cloning the repository.
 
 Supported DAW: Any Digital Audio Workstation that supports VST3 plugins.
-Installing JUCE
-Download JUCE:
 
 ### Clone the JUCE repository:
 
